@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Beasiswa</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinner_array">
+        <item>Pilih Tujuan Negara</item>
+        <item>Indonesia </item>
+        <item>Malaysia</item>
+        <item>Jepang</item>
+        <item>Amerika</item>
+        <item>Singapura</item>
+
+    </string-array>
+</resources>
